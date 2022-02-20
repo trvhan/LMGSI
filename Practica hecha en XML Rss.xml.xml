@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+
+	<channel>
+	      <title>CriptoNew</title>
+	      
+         <link>https://github.com/trvhan/LMGSI/blob/6b93491da63929a5521a2677623484684406adb2/Practica%20hecha%20en%20XML%20Rss.xml.xml<link/>
+         
+         <description>Informacion para conocer mejor las nuevas tecnologias monetarias</description>
+         
+         <category>Bitcoin/NFT/Blockchain/Metaverso</category>
+         
+	      <image>https://images.pexels.com/photos/8919543/pexels-photo-8919543.jpeg</image>
+	      
+     <skipDays>
+        <day>Saturday</day>
+        <day>Sunday</day>
+    </skipDays>
+    
+    <skipHours>
+         <hour>0</hour>
+         <hour>1</hour>
+         <hour>2</hour>
+         <hour>3</hour>
+         <hour>4</hour>
+         <hour>5</hour>
+    </skipHours>
+	
+      <language>es</language>
+      <lastBuildDate>Tue,15 Feb 2022</lastBuildDate>
+      <webMaster>a21baalan@iesgrancapitan.org</webMaster>
+	
+	
+		<item>
+		
+		        <title>Bitcoin</title>
+            <link>https://github.com/trvhan/LMGSI/blob/6b93491da63929a5521a2677623484684406adb2/Practica%20hecha%20en%20XML%20Rss.xml.xml<link/>
+            <description>Conoce que es el Bitcoin y para que sirve.</description>
+            <author>Angel Barea Almellones</author>
+            
+            <enclosure>
+              url="https://images.pexels.com/photos/1447418/pexels-photo-1447418.jpeg"
+              length="96.669"
+              type="image"
+            </enclosure>
+            
+            <pubDate>Tue,15 Feb 2022</pubDate>
+            <source>http://especiales.dinero.com/bitcoin/index.html</source>
+		
+		</item>
+		
+		
+		<item>
+		
+		        <title>NFT</title>
+            <link>https://github.com/trvhan/LMGSI/blob/6b93491da63929a5521a2677623484684406adb2/Practica%20hecha%20en%20XML%20Rss.xml.xml<link/>
+            <description>Aprende lo relacionado con este nuevo tipo de "arte" virtual.</description>
+    
+                <enclosure>
+              url="https://images.pexels.com/photos/5033998/pexels-photo-5033998.jpeg"
+              length="104.361"
+              type="image"
+            </enclosure>
+            
+            <pubDate>Tue,15 Feb 2022</pubDate>
+            <source>https://www.xataka.com/basics/que-nft-como-funcionan</source>
+		
+		</item>
+		
+				<item>
+		
+		        <title>Blockchain</title>
+            <link>https://github.com/trvhan/LMGSI/blob/6b93491da63929a5521a2677623484684406adb2/Practica%20hecha%20en%20XML%20Rss.xml.xml<link/>
+            <description>Conoce que es y como funciona la Blockchain.</description>
+    
+                <enclosure>
+              url="https://images.pexels.com/photos/7887847/pexels-photo-7887847.jpeg"
+              length="112.075"
+              type="image"
+            </enclosure>
+            
+            <pubDate>Tue,15 Feb 2022</pubDate>
+            <source>https://www.xataka.com/especiales/que-es-blockchain-la-explicacion-definitiva-para-la-tecnologia-mas-de-moda</source>
+		
+		</item>
+		
+				<item>
+		
+		        <title>Metaverso</title>
+            <link>https://github.com/trvhan/LMGSI/blob/6b93491da63929a5521a2677623484684406adb2/Practica%20hecha%20en%20XML%20Rss.xml.xml<link/>
+            <description>Aprende que es el metaverso y que utilidades tiene.</description>
+    
+                <enclosure>
+              url="https://images.pexels.com/photos/2777898/pexels-photo-2777898.jpeg"
+              length="136.967"
+              type="image"
+            </enclosure>
+            
+            <pubDate>Tue,15 Feb 2022</pubDate>
+            <source>https://www.xataka.com/basics/que-metaverso-que-posibilidades-ofrece-cuando-sera-real</source>
+		
+		</item>
+		
+	</channel>
+	
+</rss>
